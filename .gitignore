@@ -1,0 +1,34 @@
+src/*.exe
+src/klpcoin
+src/klpcoind
+src/test_klpcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.klpcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+klpcoin-qt
+Klpcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+klpcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
