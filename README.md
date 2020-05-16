@@ -12,11 +12,11 @@ What is Klpcoin?
 
 Klpcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - subsidy halves in 840 Blocks
  - 100,000 total coins
+ - 10 coins per block
 
 The rest is the same as Bitcoin.
- - 10 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
@@ -46,7 +46,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/klpcoin-project/klpcoin/tags) are created
+completely stable. [Tags](https://github.com/https://github.com/KognitysPlayhouse/klpcoin/tags) are created
 regularly to indicate new official, stable release versions of Klpcoin.
 
 Testing
